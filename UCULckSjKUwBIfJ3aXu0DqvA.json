@@ -1,91 +1,180 @@
 [
- {
-  "file": "long 1",
-  "title": "How Costco Makes Money Selling a $1.50 Hot Dog",
-  "description": "How does Costco make money selling a hot dog for $1.50? The price hasn't moved since the 1980s, even though inflation says it should cost about $4.40. Here's the story behind it: the co-founder who said \"If you raise the effing hot dog, I will kill you. Figure it out.\", the $4.99 chicken and its $300 million plant, and the real business underneath it all: the membership card.\n\nChapters\n0:00 A $1.50 hot dog\n0:49 Where the idea came from\n1:15 The price that never moved\n1:47 \"I will kill you\"\n2:20 Figuring it out\n3:19 The $4.99 chicken\n4:05 The real business: the card\n5:17 The $130 card\n5:47 Why the hot dog matters\n6:38 The loop\n7:06 Printer ink, inside out\n7:29 So how does Costco make money?\n\nSources\n- Costco hot dog (Wikipedia): https://en.wikipedia.org/wiki/Costco_hot_dog\n- Fortune, the Costco CEO hot dog price story (1 Jun 2024): https://fortune.com/2024/06/01/costco-ceo-hot-dog-price-story\n- Costco fiscal 2025 results: https://s201.q4cdn.com/287523651/files/doc_news/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Operating-Results-2025.pdf\n- Costco Form 10-K, fiscal 2025 (SEC): https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm\n- Costco's $4.99 rotisserie chicken (Fox Business): https://www.foxbusiness.com/money/costco-rotisserie-chicken-price\n- Costco (Wikipedia): https://en.wikipedia.org/wiki/Costco\n\n\"11 cents of every dollar\" and \"roughly half of operating profit\" are our own calculations from Costco's reported fiscal 2025 figures, labelled on screen. The rising bars for rent, gas and cinema tickets are illustrative. Costco is named for commentary only; this channel is not connected to Costco. Education only, not financial or investment advice. Narration voice is AI-generated; script, research and animation made for this channel.\n\n#economics #costco #businessmodel",
-  "tags": [
-   "costco hot dog",
-   "costco hot dog 1.50",
-   "how does costco make money",
-   "costco business model",
-   "costco membership",
-   "loss leader",
-   "costco rotisserie chicken",
-   "costco executive membership",
-   "warehouse club",
-   "business model explained",
-   "hidden economics",
-   "economics explained"
-  ],
-  "publish_at": "2026-11-07 21:00",
-  "category_id": "27"
- },
- {
-  "file": "s1 2",
-  "title": "Why is Costco's hot dog still $1.50? #shorts",
-  "description": "Same price since the 1980s. Inflation says it should cost about $4.40. Here's why it doesn't.\n\nSources:\n- Costco hot dog (Wikipedia): https://en.wikipedia.org/wiki/Costco_hot_dog\n- Fortune, the Costco CEO hot dog price story (1 Jun 2024): https://fortune.com/2024/06/01/costco-ceo-hot-dog-price-story\n\nEducation only, not financial advice. Narration voice is AI-generated.\n#shorts #economics #money",
-  "tags": [
-   "costco hot dog",
-   "costco hot dog 1.50",
-   "costco food court",
-   "loss leader",
-   "why is costco so cheap",
-   "costco business model",
-   "economics",
-   "money facts"
-  ],
-  "publish_at": "2026-11-08 21:00",
-  "category_id": "27"
- },
- {
-  "file": "s1 3",
-  "title": "Why do prices end in .99? #shorts",
-  "description": "$2.99 is one cent less than $3. So why does it feel so much cheaper? The left-digit effect.\n\nSources:\n- Thomas & Morwitz (2005), the left-digit effect, Journal of Consumer Research (summary): https://phys.org/news/2005-06-consumers-react-prices.html\n- Anderson & Simester (2003), $9 price endings field experiments: https://www.kellogg.northwestern.edu/academics-research/research/detail/2003/effects-of-9-price-endings-on-retail-sales-evidence/\n\nThe bar chart is illustrative. Education only. Narration voice is AI-generated.\n#shorts #economics #psychology",
-  "tags": [
-   "why do prices end in 99",
-   "99 cent pricing",
-   "charm pricing",
-   "left digit effect",
-   "pricing psychology",
-   "shopping tricks",
-   "economics",
-   "money facts"
-  ],
-  "publish_at": "2026-11-10 21:00",
-  "category_id": "27"
- },
- {
-  "file": "s1 5",
-  "title": "Why is movie popcorn so expensive? #shorts",
-  "description": "Almost half of every ticket dollar goes to the studios. The popcorn? They get none of it.\n\nSources:\n- AMC Entertainment 2024 annual report (10-K, SEC): https://www.sec.gov/Archives/edgar/data/1411579/000141157925000042/amc-20241231x10k.htm\n- Marketplace, why popcorn at the movies costs so much: https://marketplace.org/2014/08/04/why-does-popcorn-movies-cost-so-much\n\nThe 48 cents and 19 cents are our calculations from AMC's reported 2024 figures. Education only. Narration voice is AI-generated.\n#shorts #economics #movies",
-  "tags": [
-   "why is movie popcorn so expensive",
-   "movie theater popcorn",
-   "how cinemas make money",
-   "movie ticket money",
-   "amc",
-   "business model explained",
-   "economics",
-   "money facts"
-  ],
-  "publish_at": "2026-11-12 21:00",
-  "category_id": "27"
- },
- {
-  "file": "s1 4",
-  "title": "How do gas stations actually make money? #shorts",
-  "description": "About 13 cents a gallon after costs. The real money is inside the store.\n\nSource:\n- NACS, Who Makes Money Selling Gas?: https://www.convenience.org/stay-current/conveniencecorner/who-makes-money-selling-gas\n\nThe ~$2 per 15-gallon fill-up is our own arithmetic (15 x 13 cents), labelled illustrative on screen. Education only. Narration voice is AI-generated.\n#shorts #economics #money",
-  "tags": [
-   "how do gas stations make money",
-   "gas station profit",
-   "gas price per gallon",
-   "convenience store business",
-   "fuel margin",
-   "business model explained",
-   "economics",
-   "money facts"
-  ],
-  "publish_at": "2026-11-14 21:00",
-  "category_id": "27"
- }
+  {
+    "file": "long 1",
+    "title": "How Costco Makes Money Selling a $1.50 Hot Dog",
+    "description": "How does Costco make money selling a hot dog for $1.50? The price hasn't moved since the 1980s, even though inflation says it should cost about $4.40. Here's the story behind it: the co-founder who said \"If you raise the effing hot dog, I will kill you. Figure it out.\", the $4.99 chicken and its $300 million plant, and the real business underneath it all: the membership card.\n\nChapters\n0:00 A $1.50 hot dog\n0:49 Where the idea came from\n1:15 The price that never moved\n1:47 \"I will kill you\"\n2:20 Figuring it out\n3:19 The $4.99 chicken\n4:05 The real business: the card\n5:17 The $130 card\n5:47 Why the hot dog matters\n6:38 The loop\n7:06 Printer ink, inside out\n7:29 So how does Costco make money?\n\nSources\n- Costco hot dog (Wikipedia): https://en.wikipedia.org/wiki/Costco_hot_dog\n- Fortune, the Costco CEO hot dog price story (1 Jun 2024): https://fortune.com/2024/06/01/costco-ceo-hot-dog-price-story\n- Costco fiscal 2025 results: https://s201.q4cdn.com/287523651/files/doc_news/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Operating-Results-2025.pdf\n- Costco Form 10-K, fiscal 2025 (SEC): https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm\n- Costco's $4.99 rotisserie chicken (Fox Business): https://www.foxbusiness.com/money/costco-rotisserie-chicken-price\n- Costco (Wikipedia): https://en.wikipedia.org/wiki/Costco\n\n\"11 cents of every dollar\" and \"roughly half of operating profit\" are our own calculations from Costco's reported fiscal 2025 figures, labelled on screen. The rising bars for rent, gas and cinema tickets are illustrative. Costco is named for commentary only; this channel is not connected to Costco. Education only, not financial or investment advice. Narration voice is AI-generated; script, research and animation made for this channel.\n\n#economics #costco #businessmodel",
+    "tags": [
+      "costco hot dog",
+      "costco hot dog 1.50",
+      "how does costco make money",
+      "costco business model",
+      "costco membership",
+      "loss leader",
+      "costco rotisserie chicken",
+      "costco executive membership",
+      "warehouse club",
+      "business model explained",
+      "hidden economics",
+      "economics explained"
+    ],
+    "publish_at": "2026-11-07 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "s1 2",
+    "title": "Why is Costco's hot dog still $1.50? #shorts",
+    "description": "Same price since the 1980s. Inflation says it should cost about $4.40. Here's why it doesn't.\n\nSources:\n- Costco hot dog (Wikipedia): https://en.wikipedia.org/wiki/Costco_hot_dog\n- Fortune, the Costco CEO hot dog price story (1 Jun 2024): https://fortune.com/2024/06/01/costco-ceo-hot-dog-price-story\n\nEducation only, not financial advice. Narration voice is AI-generated.\n#shorts #economics #money",
+    "tags": [
+      "costco hot dog",
+      "costco hot dog 1.50",
+      "costco food court",
+      "loss leader",
+      "why is costco so cheap",
+      "costco business model",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-08 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "s1 3",
+    "title": "Why do prices end in .99? #shorts",
+    "description": "$2.99 is one cent less than $3. So why does it feel so much cheaper? The left-digit effect.\n\nSources:\n- Thomas & Morwitz (2005), the left-digit effect, Journal of Consumer Research (summary): https://phys.org/news/2005-06-consumers-react-prices.html\n- Anderson & Simester (2003), $9 price endings field experiments: https://www.kellogg.northwestern.edu/academics-research/research/detail/2003/effects-of-9-price-endings-on-retail-sales-evidence/\n\nThe bar chart is illustrative. Education only. Narration voice is AI-generated.\n#shorts #economics #psychology",
+    "tags": [
+      "why do prices end in 99",
+      "99 cent pricing",
+      "charm pricing",
+      "left digit effect",
+      "pricing psychology",
+      "shopping tricks",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-10 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "s1 5",
+    "title": "Why is movie popcorn so expensive? #shorts",
+    "description": "Almost half of every ticket dollar goes to the studios. The popcorn? They get none of it.\n\nSources:\n- AMC Entertainment 2024 annual report (10-K, SEC): https://www.sec.gov/Archives/edgar/data/1411579/000141157925000042/amc-20241231x10k.htm\n- Marketplace, why popcorn at the movies costs so much: https://marketplace.org/2014/08/04/why-does-popcorn-movies-cost-so-much\n\nThe 48 cents and 19 cents are our calculations from AMC's reported 2024 figures. Education only. Narration voice is AI-generated.\n#shorts #economics #movies",
+    "tags": [
+      "why is movie popcorn so expensive",
+      "movie theater popcorn",
+      "how cinemas make money",
+      "movie ticket money",
+      "amc",
+      "business model explained",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-12 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "s1 4",
+    "title": "How do gas stations actually make money? #shorts",
+    "description": "About 13 cents a gallon after costs. The real money is inside the store.\n\nSource:\n- NACS, Who Makes Money Selling Gas?: https://www.convenience.org/stay-current/conveniencecorner/who-makes-money-selling-gas\n\nThe ~$2 per 15-gallon fill-up is our own arithmetic (15 x 13 cents), labelled illustrative on screen. Education only. Narration voice is AI-generated.\n#shorts #economics #money",
+    "tags": [
+      "how do gas stations make money",
+      "gas station profit",
+      "gas price per gallon",
+      "convenience store business",
+      "fuel margin",
+      "business model explained",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-14 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "ep04-costco-hot-dog.mp4",
+    "title": "How Costco Makes Money Selling a $1.50 Hot Dog",
+    "description": "How does Costco make money selling a hot dog for $1.50? The price hasn't moved since the 1980s, even though inflation says it should cost about $4.40. Here's the story behind it: the co-founder who said \"If you raise the effing hot dog, I will kill you. Figure it out.\", the $4.99 chicken and its $300 million plant, and the real business underneath it all: the membership card.\n\nChapters\n0:00 A $1.50 hot dog\n0:49 Where the idea came from\n1:15 The price that never moved\n1:47 \"I will kill you\"\n2:20 Figuring it out\n3:19 The $4.99 chicken\n4:05 The real business: the card\n5:17 The $130 card\n5:47 Why the hot dog matters\n6:38 The loop\n7:06 Printer ink, inside out\n7:29 So how does Costco make money?\n\nSources\n- Costco hot dog (Wikipedia): https://en.wikipedia.org/wiki/Costco_hot_dog\n- Fortune, the Costco CEO hot dog price story (1 Jun 2024): https://fortune.com/2024/06/01/costco-ceo-hot-dog-price-story\n- Costco fiscal 2025 results: https://s201.q4cdn.com/287523651/files/doc_news/Costco-Wholesale-Corporation-Reports-Fourth-Quarter-and-Fiscal-Year-2025-Operating-Results-2025.pdf\n- Costco Form 10-K, fiscal 2025 (SEC): https://www.sec.gov/Archives/edgar/data/909832/000090983225000101/cost-20250831.htm\n- Costco's $4.99 rotisserie chicken (Fox Business): https://www.foxbusiness.com/money/costco-rotisserie-chicken-price\n- Costco (Wikipedia): https://en.wikipedia.org/wiki/Costco\n\n\"11 cents of every dollar\" and \"roughly half of operating profit\" are our own calculations from Costco's reported fiscal 2025 figures, labelled on screen. The rising bars for rent, gas and cinema tickets are illustrative. Costco is named for commentary only; this channel is not connected to Costco. Education only, not financial or investment advice. Narration voice is AI-generated; script, research and animation made for this channel.\n\n#economics #costco #businessmodel",
+    "tags": [
+      "costco hot dog",
+      "costco hot dog 1.50",
+      "how does costco make money",
+      "costco business model",
+      "costco membership",
+      "loss leader",
+      "costco rotisserie chicken",
+      "costco executive membership",
+      "warehouse club",
+      "business model explained",
+      "hidden economics",
+      "economics explained"
+    ],
+    "publish_at": "2026-11-07 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "sh01-hot-dog.mp4",
+    "title": "Why is Costco's hot dog still $1.50? #shorts",
+    "description": "Same price since the 1980s. Inflation says it should cost about $4.40. Here's why it doesn't.\n\nSources:\n- Costco hot dog (Wikipedia): https://en.wikipedia.org/wiki/Costco_hot_dog\n- Fortune, the Costco CEO hot dog price story (1 Jun 2024): https://fortune.com/2024/06/01/costco-ceo-hot-dog-price-story\n\nEducation only, not financial advice. Narration voice is AI-generated.\n#shorts #economics #money",
+    "tags": [
+      "costco hot dog",
+      "costco hot dog 1.50",
+      "costco food court",
+      "loss leader",
+      "why is costco so cheap",
+      "costco business model",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-08 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "sh02-99-prices.mp4",
+    "title": "Why do prices end in .99? #shorts",
+    "description": "$2.99 is one cent less than $3. So why does it feel so much cheaper? The left-digit effect.\n\nSources:\n- Thomas & Morwitz (2005), the left-digit effect, Journal of Consumer Research (summary): https://phys.org/news/2005-06-consumers-react-prices.html\n- Anderson & Simester (2003), $9 price endings field experiments: https://www.kellogg.northwestern.edu/academics-research/research/detail/2003/effects-of-9-price-endings-on-retail-sales-evidence/\n\nThe bar chart is illustrative. Education only. Narration voice is AI-generated.\n#shorts #economics #psychology",
+    "tags": [
+      "why do prices end in 99",
+      "99 cent pricing",
+      "charm pricing",
+      "left digit effect",
+      "pricing psychology",
+      "shopping tricks",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-10 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "sh03-popcorn.mp4",
+    "title": "Why is movie popcorn so expensive? #shorts",
+    "description": "Almost half of every ticket dollar goes to the studios. The popcorn? They get none of it.\n\nSources:\n- AMC Entertainment 2024 annual report (10-K, SEC): https://www.sec.gov/Archives/edgar/data/1411579/000141157925000042/amc-20241231x10k.htm\n- Marketplace, why popcorn at the movies costs so much: https://marketplace.org/2014/08/04/why-does-popcorn-movies-cost-so-much\n\nThe 48 cents and 19 cents are our calculations from AMC's reported 2024 figures. Education only. Narration voice is AI-generated.\n#shorts #economics #movies",
+    "tags": [
+      "why is movie popcorn so expensive",
+      "movie theater popcorn",
+      "how cinemas make money",
+      "movie ticket money",
+      "amc",
+      "business model explained",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-12 21:00",
+    "category_id": "27"
+  },
+  {
+    "file": "sh04-gas-station.mp4",
+    "title": "How do gas stations actually make money? #shorts",
+    "description": "About 13 cents a gallon after costs. The real money is inside the store.\n\nSource:\n- NACS, Who Makes Money Selling Gas?: https://www.convenience.org/stay-current/conveniencecorner/who-makes-money-selling-gas\n\nThe ~$2 per 15-gallon fill-up is our own arithmetic (15 x 13 cents), labelled illustrative on screen. Education only. Narration voice is AI-generated.\n#shorts #economics #money",
+    "tags": [
+      "how do gas stations make money",
+      "gas station profit",
+      "gas price per gallon",
+      "convenience store business",
+      "fuel margin",
+      "business model explained",
+      "economics",
+      "money facts"
+    ],
+    "publish_at": "2026-11-14 21:00",
+    "category_id": "27"
+  }
 ]
