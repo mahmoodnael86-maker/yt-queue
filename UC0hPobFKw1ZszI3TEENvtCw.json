@@ -74,8 +74,9 @@
       "psychology shorts",
       "mindset"
     ],
-    "publish_at": "2026-11-15 21:00",
-    "category_id": "27"
+    "publish_at": "HOLD - do not schedule",
+    "category_id": "27",
+    "hold": true
   },
   {
     "file": "sh04-liking-gap.mp4",
@@ -93,7 +94,7 @@
       "behavioural science",
       "mindset"
     ],
-    "publish_at": "2026-11-17 21:00",
+    "publish_at": "2026-11-17 18:00",
     "category_id": "27"
   }
 ]
