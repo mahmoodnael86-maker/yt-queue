@@ -80,5 +80,24 @@
   ],
   "publish_at": "2026-11-12 21:00",
   "category_id": "28"
+ },
+ {
+  "file": "ep03-friction-gone.mp4",
+  "title": "What If Friction Vanished Right Now?",
+  "description": "Friction is not one thing, and almost everything you have been told about losing it is wrong.\n\nYou would not slide forever: air drag is not solid friction, and it still brings you to a stop. Machines would not become efficient: belts, screws, clutches and tyres only work because of friction. What actually happens is stranger. You cannot stand up. Every nail, screw and knot lets go at once. Brakes do nothing at all. And the angle of repose falls to zero, so mountains stop being mountains and spread out into plains.\n\nThis video follows the scenario step by step and says out loud which parts are established physics, which are our own arithmetic, and which are speculation.\n\n[CHAPTERS AND SOURCES ARE ADDED WHEN THE RENDER IS FINISHED]\n\nVisuals are original: illustrated stills and clips generated from our own prompts, plus scenes drawn in code. Narration is AI-generated; the research is checked by hand.",
+  "tags": [
+   "what if",
+   "friction",
+   "physics",
+   "science explained",
+   "hypothetical",
+   "everyday physics",
+   "angle of repose",
+   "mountains",
+   "brakes",
+   "what would happen if"
+  ],
+  "publish_at": "2026-11-18 21:00",
+  "category_id": "28"
  }
 ]
